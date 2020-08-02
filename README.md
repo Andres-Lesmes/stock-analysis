@@ -12,7 +12,7 @@
   To refactor the program we created a set of arrays that would store the information that we obtained throughout the loops and calculations in the program. Also, we added all the calculations inside the loops and the results printing outside of the loops; which helped reduce the oerations realized by the computer and reducing the running time from 0.637 seconds to 0.117 seconds. This means an over 80% reduction of processing time which would be significant if running an analysis to the whole stock market.
   
 <img width="420" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/68616522/89115404-025ac300-d456-11ea-90a5-6024abb2c6eb.png">
-
+<img width="422" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/68616522/89115449-4a79e580-d456-11ea-923a-6a498c4f837d.png">
   
 ## Summary
   All in all refactoring a code makes the program run faster and occupy less memory in the computer; Moreover, if we have to add or delete processes and calculations to the program. It gets easier to edit it because there are less lines where the variables are cited. However, it makes it harder to understand the logic and processes going throughout the program. Also, it gets more difficult to debug the program in case of compiling errors.
