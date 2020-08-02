@@ -5,7 +5,8 @@
 #### Stock Analysis
   By analyzing the performance of these 12 stocks in years 2017 and 2018. We can see that in general the stock market for these stocks was better in year 2017 than in 2018. Also, by comparing the performance throughout the 2 years of these stock; Steve should recommend his parents to not invest their money in the DQ company since in 2018 the company underperformed and lost over 60% of the value it had at the beginning of the year. Instead, they should invest in ENPH and RUN which reported a gain of over 80% in value in year 2018; and 129.5% and 5.5% in 2017 respectively. 
   
-
+  <img width="268" alt="Screen Shot 2020-08-02 at 12 26 52 AM" src="https://user-images.githubusercontent.com/68616522/89115512-fde2da00-d456-11ea-96a5-778f1b0078c5.png">
+<img width="273" alt="Screen Shot 2020-08-02 at 12 27 19 AM" src="https://user-images.githubusercontent.com/68616522/89115514-01766100-d457-11ea-97e4-218ceaed568d.png">
 
 
 #### Refactoring Program Analysis
